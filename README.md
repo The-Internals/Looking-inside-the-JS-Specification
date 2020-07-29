@@ -1,5 +1,8 @@
 # The Internals #8 - Looking inside the JavaScript Specification
 
+## Recording
+[https://youtu.be/uOPeWRiIiK0](https://youtu.be/uOPeWRiIiK0)
+
 ## Resources from the discussion
 
 ### What is Ecmascript specification? 
